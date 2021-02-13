@@ -25,7 +25,7 @@ Guia prático para começar com git
 </p>
 
 <p >
-Utilize este útil guia para melhorar o seu fluxo de trabalho. O objetivo é poupa-lhe tempo quando simplesmente não se lembra o que é um comando ou não quer usar a ajuda de git na linha de comando. É difícil memorizar todos os comandos importantes de Git de cor, por isso utilize esse guia o seu ambiente de trabalho para recorrer quando ficar preso. Incluí os comandos básicos de Git para o ajudar a aprender Git, e conceitos mais avançados em torno dos ramos de Git, repositórios remotos, desfazer alterações, e muito mais.
+Utilize este útil guia para melhorar o seu fluxo de trabalho. O objetivo é poupa-lhe tempo quando simplesmente não se lembra o que é um comando ou não quer usar a ajuda de git na linha de comando. É difícil memorizar todos os comandos importantes de Git de cor, por isso utilize esse guia no seu ambiente de trabalho para recorrer quando ficar preso. Incluí os comandos básicos de Git para o ajudar a aprender Git, e conceitos mais avançados em torno dos ramos de Git, repositórios remotos, desfazer alterações, e muito mais.
 </p>
 
 - Iniciar o repositório
