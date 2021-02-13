@@ -4,7 +4,7 @@ Guia prático para começar com git
 
 <img src="https://i.ibb.co/fdMxnQ4/gitTici.png"  align="center" alt="gitTici"   border="0">
 
-<p align="center">
+<p >
 
    <img alt="Forks" src="https://img.shields.io/github/stars/ticianacapris?color=4A90E2&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
